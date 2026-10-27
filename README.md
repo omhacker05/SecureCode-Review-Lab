@@ -422,13 +422,3 @@ Always:
 - ✅ Follow your organization's security policies
 
 ---
-
-<div align="center">
-
-**🛡️ Secure Code Review Starts Here** 🛡️
-
-Built for learning, enhanced by practice.
-
-[Documentation](docs/) • [Sample Projects](sample_projects/) • [Issues](../../issues) • [Releases](../../releases)
-
-</div>
