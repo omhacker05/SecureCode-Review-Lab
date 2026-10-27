@@ -2,6 +2,10 @@
 
 **An Educational Application Security Audit & Remediation Platform**
 
+![Python](<img width="2720" height="1920" alt="secure_code_lab_features" src="https://github.com/user-attachments/assets/5bab4566-1620-4fd0-9efc-3f80993416ab" />)
+![Flask](https://img.shields.io/badge/Flask-3.1.2-green)
+![License](https://img.shields.io/badge/License-Educational-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 SecureCode Review Lab is a **local-first Flask/SQLite application** designed for authorized source code security reviews and remediation. It provides an intuitive dashboard for managing security audits, tracking vulnerabilities, and monitoring remediation progress.
 
