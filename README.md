@@ -2,7 +2,7 @@
 
 **An Educational Application Security Audit & Remediation Platform**
 
-![Python](<img width="2720" height="1920" alt="secure_code_lab_features" src="https://github.com/user-attachments/assets/5bab4566-1620-4fd0-9efc-3f80993416ab" />)
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![Flask](https://img.shields.io/badge/Flask-3.1.2-green)
 ![License](https://img.shields.io/badge/License-Educational-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
